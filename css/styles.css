@@ -47,10 +47,11 @@ textarea {
 
 /*====================================================================================*/
 .my_wrapper {
-  max-width: 1200px;
+  max-width: 1300px;
   margin: 0px auto 0;
   overflow: hidden;
   padding-top: 100px;
+  padding: 100px 50px 0;
 }
 
 @media screen and (max-width: 1230px) {
